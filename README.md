@@ -13,3 +13,5 @@ Contains a list of open source projects related to AI for coding and graphics, w
  - [Dreamcraft3D](https://github.com/deepseek-ai/DreamCraft3D) (no code yet)
 
 -  [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
+-  [Shap-e](https://github.com/openai/shap-e)
