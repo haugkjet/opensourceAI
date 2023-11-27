@@ -8,7 +8,7 @@ Contains a list of open source projects related to AI for coding and graphics, w
 
  - [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
 
-##Graphics
+## Graphics
 
  - [Dreamcraft3D](https://github.com/deepseek-ai/DreamCraft3D) (no code yet)
 
